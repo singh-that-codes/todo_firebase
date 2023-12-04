@@ -1,0 +1,6 @@
+{
+  "appTitle": "todo_firebase",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
